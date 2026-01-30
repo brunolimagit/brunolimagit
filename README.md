@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hello! My name is Bruno Lima. 
-## I`m a software engineer and programming instructor.
+## I’m a full stack software developer.
 
 [![GitHub followers](https://img.shields.io/github/followers/brunolimagit?style=social)](https://github.com/rodrigoamb)
 [![Email](https://img.shields.io/badge/Email-bru_jefferson%40hotmail.com-red?style=flat-square&logo=gmail)](mailto:bru_jefferson@hotmail.com)
@@ -73,16 +73,6 @@ const BrunoLimaDev = {
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jeff-bruno-lima](https://www.linkedin.com/in/jeff-bruno-lima/))
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunolimagit)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bru_jefferson@hotmail.com)
-
-</div>
-
----
-
-## 💭 Quote of the day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
