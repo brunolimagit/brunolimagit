@@ -92,7 +92,8 @@ const BrunoLimaDev = {
 
 <div align="center">
   
-![Snake animation](https://github.com/rodrigoamb/rodrigoamb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/brunolimagit/brunolimagit/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 </div>
 
